@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="org.springframework:spring-aop" />
+          <option value="org.springframework:spring-beans" />
+          <option value="org.testng:testng" />
+          <option value="org.springframework:spring-jdbc" />
+          <option value="org.springframework:spring-context-support" />
+          <option value="org.mybatis:mybatis-spring" />
+          <option value="org.junit.jupiter:junit-jupiter-api" />
+          <option value="org.springframework:spring-context" />
+          <option value="org.springframework:spring-test" />
+          <option value="org.aspectj:aspectjweaver" />
+          <option value="org.mybatis:mybatis" />
+          <option value="org.springframework:spring-webmvc" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
